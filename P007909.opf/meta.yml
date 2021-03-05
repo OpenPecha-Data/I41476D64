@@ -1,15 +1,16 @@
-id: opecha:P007909
+id: P007909
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25858
   title: གྱི་ལིང་བཅུ་གསུམ་འབྱུང་ཁུངས་སྐོར།
-  volume:
+  author: ''
+  volumes:
     a6ceeac3c4794c7980fa1876b9196c4a:
       image_group_id: I1KG25860
       title: Volume 1 of gyi ling bcu gsum 'byung khungs skor/
       volume_number: 1
       total_pages: 126
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གྱི་ལིང་བཅུ་གསུམ་འབྱུང་ཁུངས་སྐོར།
   author: ''
